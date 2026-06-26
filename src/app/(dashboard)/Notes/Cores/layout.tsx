@@ -5,7 +5,7 @@ const layout = ({
 }: Readonly<{
   children: React.ReactNode;
 }>) => {
-  return <main>Notes DashBoard{children}</main>;
+  return <main>Core Subjects {children}</main>;
 };
 
 export default layout;
